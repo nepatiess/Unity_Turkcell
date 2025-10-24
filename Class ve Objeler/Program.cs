@@ -5,7 +5,7 @@ using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace unity101
+namespace classveobjeler
 {
     internal class Program
     {
@@ -94,3 +94,4 @@ namespace unity101
         }
     }
 }
+
